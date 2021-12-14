@@ -32,8 +32,11 @@ WHERE
     StudentName = 'Hung';
 
 # Hiển thị các thông tin: StudentName, SubName, Mark. Dữ liệu sắp xếp theo điểm thi (mark) giảm dần. nếu trùng sắp theo tên tăng dần.
+use quan_ly_sinh_vien;
+insert into mark
+
 SELECT StudentName, `subject`.SubName,Mark 
 from student
   inner join mark on student.StudentId = mark.StudentId
 inner join `subject` on mark.SubId = `subject`.SubId
-ORDER BY mark DESC;
+ORDER BY mark desc, StudentName asc;

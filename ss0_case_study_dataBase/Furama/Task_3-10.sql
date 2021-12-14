@@ -7,8 +7,7 @@ FROM
     furama.khach_hang
 WHERE
     DATEDIFF(CURDATE(), ngay_sinh) * 0.002738 BETWEEN 18 AND 50
-        AND dia_chi LIKE '%Đà Nẵng'
-        OR dia_chi LIKE ' %Quảng Trị';
+        AND (dia_chi LIKE '%Đà Nẵng' OR dia_chi LIKE ' %Quảng Trị');
 
 
  -- ===============================================================================
@@ -56,11 +55,17 @@ GROUP BY ma_khach_hang;
 /*6.	Hiển thị ma_dich_vu, ten_dich_vu, dien_tich, chi_phi_thue, ten_loai_dich_vu của tất cả các loại dịch vụ
  chưa từng được khách hàng thực hiện đặt từ quý 1 của năm 2021 (Quý 1 là tháng 1, 2, 3).*/
  use furama;
- select dich_vu.ma_dich_vu, ten_dich_vu, dien_tich, chi_phi_thue, ten_loai_dich_vu,ngay_lam_hop_dong
+ select dich_vu.ma_dich_vu,
+ ten_dich_vu,
+ dien_tich,
+ chi_phi_thue,
+ ten_loai_dich_vu,
+ ngay_lam_hop_dong
  from dich_vu 
  left join loai_dich_vu on loai_dich_vu.ma_loai_dich_vu = dich_vu.ma_loai_dich_vu
  LEFT join hop_dong on dich_vu.ma_dich_vu = hop_dong.ma_dich_vu
- having not EXISTS (SELECT ngay_lam_hop_dong where month(ngay_lam_hop_dong) BETWEEN 1 and 3) ;
+ having not EXISTS (SELECT ngay_lam_hop_dong where month(ngay_lam_hop_dong) BETWEEN 1 and 3
+ and year(ngay_lam_hop_dong) = 2021) ;
  
  /* 7.	Hiển thị thông tin ma_dich_vu, ten_dich_vu, dien_tich, so_nguoi_toi_da, chi_phi_thue, ten_loai_dich_vu
  của tất cả các loại dịch vụ đã từng được khách hàng đặt phòng 
@@ -85,11 +90,14 @@ use furama;
  (được tính dựa trên việc sum so_luong ở dich_vu_di_kem). */
  
  use furama;
- select hop_dong. ma_hop_dong, ngay_lam_hop_dong, ngay_ket_thuc, tien_dat_coc, count(dich_vu_di_kem. ma_dich_vu_di_kem)' so_luong_dich_vu_di_kem '
+ select hop_dong. ma_hop_dong, 
+ ngay_lam_hop_dong, 
+ ngay_ket_thuc, 
+ tien_dat_coc,
+ sum(ifnull(so_luong,0))' so_luong_dich_vu_di_kem '
  from hop_dong 
  LEFT join hop_dong_chi_tiet on hop_dong_chi_tiet. ma_hop_dong = hop_dong.ma_hop_dong
-  LEFT join dich_vu_di_kem on dich_vu_di_kem. ma_dich_vu_di_kem = hop_dong_chi_tiet.ma_dich_vu_di_kem
- GROUP BY (ma_hop_dong)
+GROUP BY (ma_hop_dong)
  
 
 
