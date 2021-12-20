@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, serif;
+    background-color: orangered;
+    background-image: linear-gradient(to bottom right, red, yellow, orange);
+}
+
+.menu {
+    top: 0;
+    position: fixed;
+    float: left;
+    width: 100%;
+    background: black;
+}
+
+#line {
+    height: 1px;
+    border-bottom: double 2px white;
+}
+
+ul {
+    text-align: center;
+    position: relative;
+}
+
+ul#dieuHuong > li {
+    display: inline-block;
+    padding: 0 30px;
+    line-height: 110px;
+}
+
+h3 {
+    line-height: 110px;
+    float: left;
+    left: 90px;
+    color: white;
+    position: relative;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Calibri", serif;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+#dieuHuong ul {
+    display: none;
+}
+
+#dieuHuong li:hover ul {
+    position: absolute;
+    padding: 1px 20px;
+    display: block;
+}
+
+#dieuHuong li ul li {
+    position: relative;
+    border: 1px transparent solid;
+    background: black;
+    padding: 0 25px;
+}
+
+#dieuHuong > li {
+    border: 1px transparent solid;
+}
+
+#dieuHuong > li:hover, #dieuHuong li ul li:hover {
+    border: 1px white solid;
+}
+
+.clearfix:before, .clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/*body */
+#bodyWeb {
+    margin: 100px 0;
+    width: 100%;
+    height: 1000px;
+}
+
+
+#bodyWeb > div {
+    border: darkred solid 1px;
+    text-align: center;
+    float: left;
+    display: inline-block;
+    margin: 75px 75px;
+    border-radius: 30px;
+    height: 500px;
+    width: 350px;
+    background: white linear-gradient(#90b6ff, white, #CDCDCD, #a4ffff);
+}
+
+#bodyWeb > div:hover {
+    background: cornflowerblue;
+}
+
+.title {
+    margin: 12px 0;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.title {
+    padding: 5px;
+    background: darkred;
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+div .image img {
+    float: top;
+    margin-top: 25px;
+    border: dodgerblue 1px solid;
+    box-shadow: 5px 5px 15px black;
+    object-fit: cover;
+    width: 65%;
+    height: 65%;
+    background: #4CAF50;
+}
+

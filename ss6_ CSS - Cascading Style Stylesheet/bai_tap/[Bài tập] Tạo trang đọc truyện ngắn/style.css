@@ -1,0 +1,69 @@
+
+body { /*tạo nền cho web, ko lặp lại để cho đẹp*/
+    background: url(lhatKWas8EWs9a5VoYUSl_HSvKa8MXWYiWdlWeHYJLc.jpg) no-repeat;
+    background-size: cover;
+}
+
+#header {
+    text-shadow: 3px 3px 5px #000000;
+    /* đổ bóng, số đầu tiên là căn trái phải, số càng bé thì càng về trái. Số thứ 2 càng bé thì càng lên trên.
+                                           0 sẽ ở ngay chữ. thứ 3 là độ mờ của bóng. cuối cùng là màu*/
+    color: gold;
+    font-family: 'Vollkorn', serif; /* phông chữ từ google font*/
+    text-align: center;
+    height: 6%;
+    width: 100%;
+}
+
+p.displayStory { /*tạo hộp thông tin và làm backgroud màu đen tối đi bằng opacity, overflow dùng cho thanh sroll bar*/
+    position: fixed;
+    background-color: black;
+    opacity: 87%;
+    width: 68%;
+    height: 62%;
+    overflow: auto;
+}
+
+.displayStory { /* phần text và vị trí của hộp thông tin*/
+    font-size: 18px;
+    color: white;
+    border: solid gold 3px;
+    border-radius: 1px;
+    margin-top: 3%;
+    top: 10%;
+    right: 6%;
+    display: none; /*ẩn đi, chỉ hiện ra khí nhấp chuột vào tiêu đề */
+    padding: 3%;
+    text-align: left;
+}
+
+.center { /*căn giữa hình ảnh*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+#textEffect {
+    text-shadow: 3px 3px 5px #000000;
+    color: gold;
+    font-size: 20px;
+    font-family: 'Vollkorn', serif;
+    width: 10%;
+    height: 40%;
+    text-align: left;
+    padding: 4%;
+    margin-top: 3%;
+    line-height: 20px; /* khoảng cách giữa các dòng*/
+}
+
+a:hover { /*rê chuột vào là đổi màu */
+    text-decoration: underline;
+    opacity: 90%;
+}
+
+a {
+    text-decoration: none; /*bỏ gạch chân và các hiệu ứng của thẻ a*/
+    color: gold
+}
+

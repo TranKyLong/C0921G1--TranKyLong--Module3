@@ -100,6 +100,7 @@ foreign key( ma_khach_hang) references khach_hang(ma_khach_hang),
 foreign key( ma_dich_vu) references dich_vu(ma_dich_vu)
 );
 
+drop table if EXISTS hop_dong_chi_tiet;
 create table hop_dong_chi_tiet (
 ma_hop_dong_chi_tiet int primary key  not null,
 ma_hop_dong int  not null,
@@ -186,6 +187,7 @@ insert into dich_vu_di_kem values
 (6,'Buffet buổi tối','16000','suất','đầy đủ đồ ăn, tráng miệng');
 
 insert into hop_dong values
+(9,'2020-11-19','2020-11-19','0',3,4,3),
 (1,'2020-12-08','2020-12-08','0',3,1,3),
 (2,'2020-07-14','2020-07-21','200000',7,3,1),
 (3,'2021-03-15','2021-03-17','50000',3,4,2),
@@ -194,26 +196,25 @@ insert into hop_dong values
 (6,'2021-06-01','2021-06-03','0',7,7,6),
 (7,'2021-09-02','2021-09-05','100000',7,4,4),
 (8,'2021-06-17','2021-06-18','150000',3,4,1),
-(9,'2020-11-19','2020-11-19','0',3,4,3),
+
 (10,'2021-04-12','2021-04-14','0',10,3,5),
 (11,'2021-04-25','2021-04-25','0',2,2,1),
 (12,'2021-05-25','2021-05-27','0',7,10,1);
 
 insert into hop_dong_chi_tiet values
-(1,5,2,4),
-(2,8,2,5),
-(3,10,2,6),
-(4,1,3,1),
-(5,11,3,2),
-(6,1,1,3),
-(7,2,1,2),
-(8,2,1,2);
+(1,2,4,5),
+(2,2,5,8),
+(3,2,6,15),
+(4,3,1,1),
+(5,3,2,11),
+(6,1,3,1),
+(7,1,2,2),
+(8,12,2,2);
 
 -- 2.Hiển thị thông tin của tất cả nhân viên có trong hệ thống
 -- có tên bắt đầu là một trong các ký tự “H”, “T” hoặc “K” và có tối đa 15 kí tự.
+use furama;
 SELECT *
 FROM nhan_vien 
-WHERE ho_ten_nhan_vien LIKE 'T%' 
-or ho_ten_nhan_vien LIKE 'H%' 
-or ho_ten_nhan_vien LIKE  'K%' 
-and length(ho_ten_nhan_vien) <=15;
+WHERE  (ho_ten_nhan_vien LIKE 'T%' or ho_ten_nhan_vien LIKE 'H%' or ho_ten_nhan_vien LIKE  'K%')
+and char_length(ho_ten_nhan_vien) <=15;

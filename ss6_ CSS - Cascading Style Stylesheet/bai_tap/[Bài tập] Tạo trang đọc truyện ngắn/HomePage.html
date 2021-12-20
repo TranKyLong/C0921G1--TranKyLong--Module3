@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vollkorn&display=swap" rel="stylesheet">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="header"> <H1> 3 trận thủy chiến làm nên những trang sử hào hùng trên Bạch Đằng Giang </H1> </div>
+
+<div id="textEffect">
+    <a href="#" onclick="show938()">1.Ngô Quyền đánh tan quân Nam Hán năm 938</a> <br> <br>
+    <br>
+    <a href="#" onclick="show981()">2.Lê Đại Hành và chiến thắng Bạch Đằng năm 981</a> <br>
+    <br> <br>
+    <a href="#" onclick="show1288()">3.Bạch Đằng năm 1288 - Trận thuỷ chiến chấn động thế giới</a>
+</div>
+
+<p id="displayStory" class="displayStory"></p>
+
+</body>
+<script>
+    function show938() {
+        let x = document.getElementById("displayStory"); //nếu X không display thì hiện ra text, nếu có thì không hiển thị -> đómg lại
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            document.getElementById("displayStory").innerHTML = "<img class='center' src=\"bachdang-1.jpg\" alt=\"bachdang1\" >  <br> <br>"
+                + "Trận đầu vang danh chiến thắng Bạch Đằng là khi Ngô Quyền đập tan quân Nam Hán năm 938, đánh dấu đỉnh cao " +
+                "của nghệ thuật quân sự Việt Nam.<br> <br>" +
+                "Sách Đại Việt Sử ký toàn thư cho biết kế sách đánh giặc của Ngô Quyền: “Nếu sai người đem cọc nhọn, đầu bịt sắt" +
+                " cắm ngầm trước cửa biển, thuyền của bọn chúng theo nước triều lên vào trong hàng cọc thì sau đó ta dễ bề chế ngự, " +
+                "không cho chiếc nào thoát”. Chính Ngô Quyền đã khẳng định điều đó với tướng lĩnh của mình “không kế gì hơn kế ấy cả”.<br> <br>" +
+                "Đức vương Ngô Quyền sinh ngày 12 tháng Giêng năm Mậu Ngọ (tức ngày 6 tháng 2 năm 898), tại làng Mông Phụ, Đường Lâm," +
+                " thị xã Sơn Tây, Hà Nội ngày nay. Sinh ra trong một dòng họ hào trưởng có thế lực, cha là Ngô Mân làm chức châu mục Đường Lâm," +
+                " ngay từ nhỏ, ông đã tỏ ra là người có trí dũng song toàn, được dạy bắn cung nỏ, sử dụng giáo gươm, bí mật binh pháp." +
+                " Ngô Quyền lớn lên trong lúc đất nước mới dành được quyền tự chủ, ông nối chí cha tập hợp lực lượng và trở thành " +
+                "một hào trưởng hùng mạnh trong vùng. Ông được Dương Đình Nghệ, (vốn là một bộ tướng của Khúc Thừa Mỹ, sau tự xưng là Tiết độ sứ)" +
+                " tin yêu, mời về làm Nha Tướng và gả con gái cho. Sau lại được Dương Đình Nghệ giao cho trấn giữ Châu Ái - vùng đất phên dậu " +
+                "của quê hương họ Dương. Năm 937, Dương Đình Nghệ bị nha tướng Kiều Công Tiễn giết hại để cướp ngôi Tiết độ sứ, " +
+                "gây nên sự căm phẫn trong các vị hào trưởng và nhân dân. Ngô Quyền bèn tập hợp lực lượng để tiêu diệt Kiều Công Tiễn." +
+                " Quá hoảng sợ, Kiều Công Tiễn đã vội vã cầu cứu Nam Hán, vua Nam Hán là Lưu Cung nhân cơ hội đó đã phong con trai " +
+                "là Lưu Hoàng Tháo thống lĩnh thủy quân vượt biển sang xâm lược nước ta.<br> <br>" +
+                "Đất nước lâm nguy, Ngô Quyền một mặt tiêu diệt Kiều Công Tiễn trừ mối hoạ, mặt khác huy động nhân dân cả nước bước vào " +
+                "cuộc kháng chiến. Tại vùng cửa sông Bạch Đằng, Ngô Quyền đã huy động hàng ngàn binh sĩ và nhân dân địa phương" +
+                " xây dựng trận địa cọc để đón đánh quân xâm lược. Hơn ba nghìn cây gỗ được vót nhọn, bịt sắt rồi đóng xuống lòng sông" +
+                " trên một quãng dài 3 dặm, khi thuỷ triều lên, bãi cọc không bị lộ. Ngô Quyền dự định nhử quân địch vào khu vực này " +
+                "khi thủy triều lên và đợi nước triều rút xuống cho thuyền địch mắc cạn mới giao chiến. Vào một ngày cuối đông năm 938," +
+                " đoàn binh thuyền do Hoàng Tháo chỉ huy rầm rộ vượt biển tiến vào cửa ngõ Bạch Đằng. Đúng lúc nước triều đang dâng cao," +
+                " Ngô Quyền cho thuyền nhẹ ra khiêu chiến, nhử địch đuổi theo vượt qua bãi cọc lọt vào trận địa mai phục của ta." +
+                " Khi đoàn thuyền của Hoàng Tháo vượt qua vùng cửa biển, nước triều rút mạnh, quân ta  quay lại phản công quyết liệt." +
+                " Trận địa cọc nhô lên chặn đứng đoàn thuyền giặc, nhiều chiếc bị cọc gỗ đâm thủng, va vào nhau rồi chìm xuống dòng sông. " +
+                "Chủ tướng Hoàng Tháo bỏ mạng cùng quá nửa quân sĩ. Vua Nam Hán cầm quân tiếp ứng đóng ở biên giới mà không kịp trở tay đối phó." +
+                " Nghe tin Hoằng Tháo tử trận, Lưu Cung kinh hoàng, đành thu nhặt số quân còn lại mà rút lui. " +
+                "Từ đó, nhà Nam Hán bỏ hẳn mộng xâm lược nước ta. Sau chiến thắng lẫy lừng, năm 939, Ngô Quyền lên ngôi vua," +
+                " xưng là Ngô Vương, lập ra nhà Ngô, đóng đô ở Cổ Loa (tức Đông Anh, Hà Nội ngày nay).<br> <br>" +
+                "Đại thắng Bạch Đằng năm 938 được ghi vào lịch sử chống giặc ngoại xâm của dân tộc ta như một chiến công chói lọi, " +
+                "chấm dứt nền thống trị hơn 1000 năm Bắc thuộc, mở ra một kỷ nguyên độc lập lâu dài cho dân tộc Việt Nam. " +
+                "Ngô Quyền - người anh hùng của chiến thắng oanh liệt trên sông Bạch Đằng năm 938 đã trở thành vị vua có \"công tái tạo, " +
+                "vua của các vua”, xứng đáng là \"vị tổ trung hưng\" của dân tộc."
+
+        } else {
+            x.style.display = "none";
+        }
+    }
+
+    function show981() {
+        let x = document.getElementById("displayStory");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+        document.getElementById("displayStory").innerHTML = "<img class='center' src=\"apocalypse-d89p-artstation.jpg\" alt=\"002\" '>"
+            + "<br>" + "<br>"
+            + "Trận kỳ chiến gắn với bậc kỳ nhân thứ hai tại Bạch Đằng giang diễn ra trong giai đoạn chiến tranh Tống - Việt năm 981, " +
+            "và nhà cầm quân tài ba được vinh danh chiến thắng là vua Lê Đại Hành. Sau cuộc chiến lớn này, Đại Tống chấp nhận xuống nước" +
+            " và chính thức thừa nhận Lê Đại Hành cai trị Đại Cồ Việt.<br> <br>" +
+            "Hoàng đế Lê Đại Hành (tên húy là Lê Hoàn) sinh năm 941 tại làng Trung Lập, xã Xuân Lập, huyện Thọ Xuân, tỉnh Thanh Hoá. " +
+            "Ông mồ côi cha mẹ từ nhỏ, lại mang tướng mạo khác thường nên viên quan án sát họ Lê đã nhận ông về nuôi dưỡng. " +
+            "Lớn lên, ông theo giúp Đinh Liễn - con trai trưởng của Đinh Tiên Hoàng. Vốn là người trí dũng," +
+            " Lê Hoàn được Đinh Tiên Hoàng giao cho cai quản hàng ngàn quân sĩ. Năm 971, ông được thăng lên chức võ quan cao nhất" +
+            " là Thập đạo tướng quân, Điện tiền đô chỉ huy sứ của triều Đinh.<br> " +
+            "Cuối năm 979, Đinh Tiên Hoàng và thế tử Đinh Liễn bị ám sát, con thứ Đinh Toàn mới 5 tuổi lên nối ngôi, triều đình nhà Đinh suy yếu." +
+            " Nhân cơ hội này, nhà Tống ráo riết tập trung binh lực chuẩn bị xâm lược nước ta. <br>" +
+            "Đứng trước vận mệnh nguy nan của đất nước, triều đình đã suy tôn Lê Hoàn làm vua (tức vua Lê Đại Hành), lập nhà Tiền Lê năm 980." +
+            " Ông đặt niên hiệu là Thiên Phúc, quốc hiệu vẫn là Đại Cồ Việt, đóng đô tại Hoa Lư, ổn định tình hình nội bộ," +
+            " rồi chia quân phòng giữ các nơi hiểm yếu.<br> <br> " +
+            "Nhà Tống lấy cớ Lê Hoàn tự xưng Đế, đổi niên hiệu để đem quân thôn tính nước ta. Mùa xuân năm 981, " +
+            "4 vạn quân Tống do Hầu Nhân Bảo chỉ huy theo hai đường thuỷ bộ đánh chiếm nước ta. Lê Đại Hành thân chinh làm tướng cầm quân, " +
+            "cho xây thành Bình Lỗ, sai quân sĩ đóng cọc ngăn sông dựa vào địa thế hiểm trở của sông Bạch Đằng." +
+            "Sau hơn hai tháng tiến đánh, không chiếm được Đại La và kinh đô Hoa Lư, quân địch lúng túng vì chịu nhiều tổn thất nặng nề," +
+            " Lê Đại Hành quyết phản công. Ngày 28/4/981, trận quyết chiến trên sông Bạch Đằng diễn ra, " +
+            "Lê Đại Hành đã cho một cánh quân ra khiêu chiến với quân địch, Hầu Nhân Bảo trúng kế đuổi theo và lọt vào trận địa mai phục.\n" +
+            "Lúc này, các chiến binh Đại Cồ Việt từ khắp các nẻo đường đổ về sông Bạch Đằng vây đánh quân Tống quyết liệt." +
+            " Hầu Nhân Bảo bị giết chết. Nghe tin thuỷ quân thua trận, các cánh quân khác vội vã tháo chạy," +
+            " bị quân Đại Cồ Việt truy kích tiêu diệt quá nửa, quân Tống bị quét sạch khỏi bờ cõi nước ta." +
+            " Đại thắng Bạch Đằng năm 981 khiến nhà Tống phải kính nể tài năng và bản lĩnh của Lê Đại Hành, " +
+            "xuống nước công nhận ông là vua của Đại Cồ Việt."
+
+    }
+
+    function show1288() {
+        let x = document.getElementById("displayStory");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            document.getElementById("displayStory").innerHTML = "<img class='center' src=\"f135a195bb44c03715ee3aa59b16c5b7.jpg\" alt=\"003\" > <br>  <br>"
+                + "Dòng Bạch Đằng giang lần thứ ba lần đi vào lịch sử chống ngoại xâm của dân tộc là vào năm 1288" +
+                ", với chiến công của Hưng Đạo vương Trần Quốc Tuấn trước quân Nguyên Mông.<br> <br>" +
+                "Trần Quốc Tuấn sinh năm 1228, thuộc dòng dõi tôn thất nhà Trần. Suốt cuộc đời, ông hết lòng phụng sự cả 4 đời vua Trần thịnh trị." +
+                " Ông là bậc tướng cột đá chống trời, hội tụ cả tài lẫn đức và trong cả ba lần đánh quân Nguyên Mông," +
+                " Trần Quốc Tuấn đều lập công lớn, được sử sách ngợi ca.<br> <br>" +
+                "Trong trận chiến Bạch Đằng năm 1288, đích thân ông đã đặt chân đến vùng đất Tràng Kênh và các làng xã lân cận để bày trận " +
+                "đón đánh sự rút chạy của đội quân xâm lược Nguyên Mông, làm nên chiến thắng vĩ đại Bạch Đằng lần thứ 3 năm 1288.<br> <br>" +
+                "Tháng 3/1288, biết được ý đồ rút quân bằng đường thuỷ qua sông Bạch Đằng của quân địch, Trần Quốc Tuấn đã chỉ huy" +
+                " quân dân Đại Việt chuẩn bị một trận địa mai phục lớn trên sông. Các loại gỗ lim, táu… đã được đốn ngã trên rừng " +
+                "kéo về bờ sông và được đẽo nhọn cắm xuống lòng các cửa sông dẫn ra biển làm thành những bãi chông lớn.<br> <br>" +
+                "Các cánh quân thuỷ bộ bí mật mai phục sau dãy núi đá Tràng Kênh dọc bờ sông Bạch Đằng. Sáng ngày 9/4/1288, " +
+                "khi đoàn thuyền của Ô Mã Nhi tiến vào sông Bạch Đằng nhân lúc nước lớn, thủy quân nhà Trần tràn ra giao chiến," +
+                " rồi giả thua bỏ chạy. Trúng kế, thuyền giặc di chuyển vào sâu bên trong sông Bạch Đằng, tiến vào bãi cọc.<br> <br>" +
+                "Quân ta đợi cho thủy triều xuống mới quay thuyền lại và đánh thẳng vào đội hình địch." +
+                " Thủy quân Đại Việt từ các hướng nhanh chóng tiến ra sông Bạch Đằng, với hàng trăm chiến thuyền cùng quân lính " +
+                "tạo thành một dải thuyền chặn đầu thuyền địch ngang trên sông.<br> <br>" +
+                "Quân Nguyên Mông bị mắc kẹt, tổn thất nặng nề, nhiều chiến thuyền bị cháy rụi và đâm phải cọc nhọn. " +
+                "Một số cánh quân Nguyên bỏ thuyền chạy lên bờ sông để tìm đường trốn chạy nhưng đều rơi vào ổ phục kích của quân nhà Trần, " +
+                "bị chặn đánh kịch liệt. Chỉ trong vòng 1 ngày, hơn 600 chiến thuyền và khoảng 6 vạn quân địch đã bị tiêu diệt hoàn toàn." +
+                " Quân dân nhà Trần đại thắng.<br> <br>" +
+                "Chiến thắng Bạch Đằng năm 1288 là đỉnh cao chói lọi của sức mạnh và nghệ thuật quân sự của quân dân Đại Việt thế kỷ thứ 13," +
+                " thể hiện tài thao lược của Hưng Đạo Đại Vương Trần Quốc Tuấn - vị anh hùng kiệt xuất, nhà chiến lược lỗi lạc của dân tộc ta." +
+                " Ông không chỉ được nhân dân Việt Nam tôn thờ như một bậc thánh nhân mà còn được thế giới công nhận " +
+                "là một trong mười vị tướng giỏi nhất mọi thời đại."
+        } else {
+            x.style.display = "none";
+        }
+    }
+
+
+</script>
+</html>
