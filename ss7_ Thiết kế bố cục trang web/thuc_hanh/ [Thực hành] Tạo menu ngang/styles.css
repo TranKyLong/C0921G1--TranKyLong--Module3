@@ -56,9 +56,6 @@
     display: block;
 }
 
-#d5d{
-    color: orange;
-}
 #menu ul ul > #d5d:hover{
     color: dodgerblue;
     background: dodgerblue;

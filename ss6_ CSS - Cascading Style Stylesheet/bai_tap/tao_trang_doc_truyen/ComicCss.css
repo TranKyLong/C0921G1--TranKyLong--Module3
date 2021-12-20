@@ -14,14 +14,10 @@ body {
 .menu {
     top: 0;
     position: fixed;
-    float: left;
+    float: top;
     width: 100%;
     background: black;
-}
-
-#line {
-    height: 1px;
-    border-bottom: double 2px white;
+    height: 80px;
 }
 
 ul {
@@ -32,11 +28,11 @@ ul {
 ul#dieuHuong > li {
     display: inline-block;
     padding: 0 30px;
-    line-height: 110px;
+    line-height: 80px;
 }
 
 h3 {
-    line-height: 110px;
+    line-height: 80px;
     float: left;
     left: 90px;
     color: white;
@@ -59,7 +55,6 @@ a {
 
 #dieuHuong li:hover ul {
     position: absolute;
-    padding: 1px 20px;
     display: block;
 }
 
@@ -71,8 +66,10 @@ a {
 }
 
 #dieuHuong > li {
+    height: 80px;
     border: 1px transparent solid;
 }
+
 
 #dieuHuong > li:hover, #dieuHuong li ul li:hover {
     border: 1px white solid;
@@ -105,7 +102,8 @@ a {
 }
 
 #bodyWeb > div:hover {
-    background: cornflowerblue;
+    background: #f5a7ff;
+    border: white double 5px;
 }
 
 .title {
