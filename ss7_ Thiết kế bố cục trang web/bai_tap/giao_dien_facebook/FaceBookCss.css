@@ -1,0 +1,119 @@
+/* For desktop: */
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+* {
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    box-sizing: border-box
+}
+
+[class*="col-"] {
+    float: left;
+
+}
+
+.row::after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+
+body {
+    background: #d0d1d2;
+}
+
+/*header*/
+.headermenu li {
+    width: 20%;
+    text-align: center;
+    color: red;
+    float: left;
+}
+
+#righter {
+    padding-left: 134px;
+}
+
+.story {
+    height: 200px;
+    border: 1px solid black;
+}
+
+.stt {
+    bottom: 0;
+    float: bottom;
+    height: 180px;
+    background: white;
+}
+
+.facehere {
+    background: #4CAF50;
+    height: 1000px;
+}
+
+/*header cua fb*/
+#fixedheader {
+    top: 0;
+    float: left;
+    padding: 0;
+    line-height: 60px;
+    width: 100%;
+    position: fixed;
+    height: 60px;
+    background: white;
+}
