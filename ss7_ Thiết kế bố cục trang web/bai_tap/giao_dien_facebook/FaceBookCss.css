@@ -74,6 +74,8 @@
 }
 
 body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
     background: #d0d1d2;
 }
 
@@ -81,7 +83,7 @@ body {
 .headermenu li {
     width: 20%;
     text-align: center;
-    color: red;
+    color: white;
     float: left;
 }
 
@@ -89,31 +91,133 @@ body {
     padding-left: 134px;
 }
 
+/*story*/
 .story {
+    margin-bottom: 10px;
     height: 200px;
-    border: 1px solid black;
 }
 
+.storybox {
+    float: left;
+    border: 1px solid black;
+    width: 18%;
+    height: 100%;
+    border-radius: 15px;
+    background: gold;
+}
+
+.storyimage {
+    width: 100%;
+    border-radius: 15px;
+    height: 100%;
+    background: #f5a7ff;
+}
+
+.storyname {
+    padding-top: 171px;
+    text-align: center;
+    color: white;
+
+}
+
+/*stt*/
 .stt {
+    margin: 15px 0;
+    border-radius: 15px;
     bottom: 0;
     float: bottom;
-    height: 180px;
+    height: 160px;
     background: white;
 }
 
+.button li {
+    width: 200px;
+    float: left;
+    text-align: center;
+    padding-top: 64px;
+}
+
+
 .facehere {
-    background: #4CAF50;
-    height: 1000px;
+    height: auto;
+    background: white;
 }
 
 /*header cua fb*/
 #fixedheader {
     top: 0;
-    float: left;
+    float: bottom;
     padding: 0;
     line-height: 60px;
     width: 100%;
     position: fixed;
     height: 60px;
-    background: white;
+    background: #0a53be;
+}
+
+/*body*/
+
+#facebookbody {
+    margin-top: 65px;
+}
+
+.sider {
+    margin-left: 15px;
+}
+
+.sider ul {
+    font-weight: bold;
+    line-height: 56px;
+    height: 289px;
+}
+
+.fakeimage {
+    padding: 5px;
+    background: #a4ffff;
+    border-radius: 20px;
+}
+
+
+#textBox {
+    padding: 0 20px;
+    margin-left: 10px;
+    border: none;
+    background: #CDCDCD;
+    border-radius: 50px;
+    height: 35px;
+    width: 150px;
+}
+.contacts  {
+    width: 100%;
+    padding: 0;
+}
+.contacts ul li{
+    width: 200px;
+    text-align: center;
+    padding-top: 31px;
+}
+
+.thinking {
+    padding-top: 45px;
+    width: 100%;
+    float: left;
+
+}
+
+div{
+    width: 100%;
+}
+.status{
+    height: 50%;
+}
+
+.food{
+    text-align: center;
+    width: 100%;
+}
+.food img{
+margin: 3px 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
