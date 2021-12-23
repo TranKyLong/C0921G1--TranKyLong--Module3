@@ -1,9 +1,14 @@
-*{
+* {
     box-sizing: border-box;
 }
 
+/*.col-lg-3 {*/
+/*    float: left*/
+/*}*/
+
 .theimg {
-margin: 2px;
+    padding: 5px;
+    /*margin: 1px;*/
     border: solid 1px grey;
     float: left;
     height: 270px;
