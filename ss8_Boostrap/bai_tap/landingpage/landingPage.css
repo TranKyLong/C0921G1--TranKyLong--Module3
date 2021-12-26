@@ -1,3 +1,250 @@
-body{
-    background: #a4ffff;
+body {
+    background: white;
+}
+
+nav, .dropdown-menu {
+    font-size: 12px;
+}
+
+nav {
+    color: black;
+    height: 60px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#delimiter {
+    color: black;
+    font-size: 20px;
+    margin: 0 19px;
+}
+
+.row > * {
+    padding: 0;
+}
+
+.sider {
+    position: relative;
+    width: 100%;
+}
+
+.righter {
+    position: absolute;
+    float: left;
+    right: 10px;
+}
+
+.blue {
+    font-size: 15px;
+    height: 25px;
+    line-height: 25px;
+}
+
+.spacing span {
+    margin: 0 14px;
+    font-size: 12px;
+    color: #0a58ca;
+    font-weight: bold;
+    cursor: pointer
+}
+
+
+#surface span {
+    bottom: 11px;
+    text-decoration: underline;
+    /* margin-top: 1px; */
+    position: relative;
+    font-size: 21px;
+    color: #0a58ca;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#unwrap {
+    font-size: 40px;
+}
+
+#surface {
+    margin: 0 auto;
+    width: 704px;
+    font-size: 19px;
+}
+
+.spacing {
+    margin: 0 9px;
+}
+
+.product, .product img {
+    width: 100%;
+}
+
+#logo {
+    margin: 30px;
+    width: 125px;
+}
+
+#logo img {
+    width: 100%;
+
+}
+
+.marginLeft {
+    margin-left: 20px;
+}
+
+.business {
+    line-height: 20px;
+    font-size: 19px;
+    margin-left: 40px;
+}
+
+.icon {
+    line-height: 110px;
+    margin: 35px 15px;
+    font-size: 40px;
+}
+
+.centering {
+    line-height: 110px;
+    position: absolute;
+
+}
+
+.myPosition div {
+    position: relative;
+    margin-left: 15px;
+    width: 100%;
+    height: 110px;
+}
+
+.productImg {
+    margin: 5px;
+    background: #f2f2f2;
+    height: 315px;
+}
+
+.descript {
+    margin-left: 15px;
+}
+
+.descript p {
+    color: black;
+    width: max-content;
+    background: gold;
+    padding: 1px 5px;
+
+    font-size: 12px;
+}
+
+.descript a {
+    font-weight: bold;
+    color: #0a53be;
+
+    padding-top: 9px;
+}
+
+.descript a:hover {
+    text-decoration: underline;
+}
+
+.productitle {
+    line-height: 40px;
+    background: white;
+    height: 40px;
+    font-size: 21px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+
+    border-radius: 300px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    /*background: 0 0;*/
+    border: 0;
+    /*opacity: 15%;*/
+    transition: opacity .15s ease;
+    background-color: black;
+
+}
+
+.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+    opacity: .9;
+
+}
+
+.item {
+    margin-left: 350px;
+    width: 200px;
+}
+
+.caroimg {
+    object-fit: cover;
+}
+
+#demo {
+    position: relative;
+
+    margin: 50px auto;
+    height: 190px;
+}
+
+.carousel-inner {
+    height: 180px;
+    margin: 3px auto;
+    position: relative;
+    width: 80%;
+    border: 1px solid black;
+}
+
+
+
+.endimg {
+    padding: 0 15px;
+    width: 100%;
+
+}
+
+.endimg .h5 {
+  font-size: 55px;
+
+}
+
+
+.endimg img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.tile {
+
+    margin-top: 19px;
+    font-size: 18px;
+
+}
+.content {
+font-size: 19px;
+    width: 75%;
+}
+
+.endicon{
+    margin: 25px;
+    color: black;
+    font-size: 40px;
 }

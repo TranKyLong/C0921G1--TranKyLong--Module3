@@ -20,64 +20,141 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea725f08-7490-4e33-aced-f658389cfb85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/.idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/m.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/gallerycss.css" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/gallerycss.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/gallery/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_JSTL/.idea/ss10_JSTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_JSTL/bai_tap/.idea/bai_tap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_ Thiết kế bố cục trang web/bai_tap/tao_layout_voi_rwd/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_ Thiết kế bố cục trang web/bai_tap/tao_layout_voi_rwd/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_ Thiết kế bố cục trang web/bai_tap/tao_layout_voi_rwd/rwdcss.css" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_ Thiết kế bố cục trang web/bai_tap/tao_layout_voi_rwd/rwdcss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/landingpage/landingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/landingpage/landingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/landingpage/microsoft.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_Boostrap/bai_tap/landingpage/microsoft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/build/classes/java/main/DiscountCalculatorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/build/libs/bai_tap-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/src/main/java/DiscountCalculatorServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/build/classes/java/main/ConverterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/build/libs/ChuyenDoiTienTe-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/src/main/java/ConverterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/ChuyenDoiTienTe/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build/classes/java/main/thuc_hanh/DangNhapvaHienThiLoiChaoServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build/classes/java/main/thuc_hanh/HienThiThoiGianServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build/classes/java/main/thuc_hanh/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build/libs/001-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/src/main/java/thuc_hanh/DangNhapvaHienThiLoiChaoServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/src/main/java/thuc_hanh/HienThiThoiGianServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/HienThiThoiGianvaLoiChao/src/main/webapp/HienThiLoiChao.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/src/main/java/TranslationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/TuDienDonGian/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +181,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -127,6 +205,13 @@
       <workItem from="1640222106484" duration="233000" />
       <workItem from="1640230568974" duration="2992000" />
       <workItem from="1640270395763" duration="4909000" />
+      <workItem from="1640338822543" duration="1638000" />
+      <workItem from="1640411458647" duration="4320000" />
+      <workItem from="1640422168561" duration="3097000" />
+      <workItem from="1640429190519" duration="14512000" />
+      <workItem from="1640503695822" duration="14956000" />
+      <workItem from="1640528015719" duration="7144000" />
+      <workItem from="1640537058868" duration="8339000" />
     </task>
     <servers />
   </component>
@@ -150,5 +235,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="208" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1640222342662" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1640539349455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1640539349455" />
   </component>
 </project>
