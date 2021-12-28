@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management" vcs="Git" />
   </component>
 </project>
