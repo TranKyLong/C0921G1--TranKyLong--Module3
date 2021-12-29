@@ -10,18 +10,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-
+    <link rel="stylesheet" href="mvccss.css">
     <title>Title</title>
-    <style>
-        table,  td {
-            border: 1px solid blue;
-            border-collapse: collapse;
-        }
-        td {
-            width: 170px;
-        }
 
-    </style>
 </head>
 <body>
 <h1>Product details</h1>

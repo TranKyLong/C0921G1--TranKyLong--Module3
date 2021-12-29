@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Title</title>
+    <link rel="stylesheet" href="mvccss.css">
 </head>
 <body>
 <h1>Delete Product</h1>
