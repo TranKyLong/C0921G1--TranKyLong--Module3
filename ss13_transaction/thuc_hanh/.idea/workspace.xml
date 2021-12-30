@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f8defcb-381d-4ed3-80a2-dd727c0b7b11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/boostrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/furama/src/main/webapp/assert/css/furamaCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/webbapp/assert/css/furamaCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/webbapp/assert/css/furamaCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/webbapp/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss0_case_study/jstl_servlet/webbapp/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss11_mvc/thuc_hanh/jwbd-customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss11_mvc/thuc_hanh/jwbd-customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager" />
+  </component>
+  <component name="ProjectId" id="230ayl7KfrlnPWNuy3ahO9z3y6v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f8defcb-381d-4ed3-80a2-dd727c0b7b11" name="Default Changelist" comment="" />
+      <created>1640873714076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640873714076</updated>
+      <workItem from="1640873715441" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1640873769640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640873769640" />
+  </component>
+</project>

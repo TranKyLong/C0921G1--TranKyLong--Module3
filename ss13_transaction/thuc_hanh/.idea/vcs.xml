@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goi_mysql_stored_procedures/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/has_transaction/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mysql_jdbc_transaction/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/none_transaction/jwbd-user-manager" vcs="Git" />
+  </component>
+</project>

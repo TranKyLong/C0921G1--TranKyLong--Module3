@@ -1,0 +1,116 @@
+* {
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&family=Orbitron:wght@900&display=swap');
+    font-family: 'Barlow', sans-serif;
+
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+}
+
+.logo {
+    margin: 0 auto;
+    width: 95%;
+    line-height: 150px;
+
+
+}
+
+.logo_image {
+
+    left: 20px;
+    float: left;
+    width: 110px;
+    height: 110px;
+
+}
+
+.logo_image img {
+    border-radius: 16px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.logo_name {
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.logo_name:hover {
+    color: #046056;
+}
+
+
+/*thanh navbar*/
+
+.nav_content {
+    padding: 50px;
+    width: 100%;
+    height: 70px;
+    background: #046056;
+}
+
+.nav_menu {
+    width: 100%;
+    padding: 20px;
+    /*margin: 20px auto;*/
+}
+
+.nav_item_1 li {
+    /* float: left; */
+    text-align: center;
+     margin: 0 auto;
+    /* color: white; */
+    font-size: 20px;
+    width: 217px;
+    /* padding: 0 25%; */
+    left: 10px;
+}
+
+.nav_item_1 li:hover {
+    height: 100%;
+    background: #0c4128;
+    color: #f5a7ff;
+}
+
+/**dropd down buttom*/
+.drop_button {
+    margin-top: 10px;
+    background: #046056;
+}
+
+/*side*/
+
+.side{
+    text-align: center;
+    width: 100%;
+    min-height: 600px;
+}
+
+.side ul {
+    margin:0;
+    padding: 0;
+}
+.side ul li{
+    padding-top: 30px;
+    list-style: none;
+}
+
+.side ul li a {
+
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+}
+
+
+/*footer*/
+.foot {
+
+}
