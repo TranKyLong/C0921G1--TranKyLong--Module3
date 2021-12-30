@@ -20,15 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea725f08-7490-4e33-aced-f658389cfb85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss0_case_study/jstl_servlet/webbapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_JSTL/bai_tap/caculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_JSTL/bai_tap/caculator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_JSTL/th/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss0_case_study_dataBase/Furama/Task_11-17.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ss0_case_study/dataBase/furama/Task_11-17.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss0_case_study_dataBase/Furama/Task_18-20.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ss0_case_study/dataBase/furama/Task_18-20.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss0_case_study_dataBase/Furama/Task_1_2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ss0_case_study/dataBase/furama/Task_1_2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss0_case_study_dataBase/Furama/Task_3-10.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ss0_case_study/dataBase/furama/Task_3-10.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/classes/java/main/com/codegym/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/classes/java/main/com/codegym/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/classes/java/main/com/codegym/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/classes/java/main/com/codegym/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/libs/bai_tap-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/build/libs/bai_tap-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/java/com/codegym/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/java/com/codegym/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/java/com/codegym/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/java/com/codegym/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/user/newCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_JDBC_va_CRUD/bai_tap/src/main/webapp/assert/css/newCss.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +80,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss0_case_study/jstl_servlet/webbapp/assert/boostrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -68,12 +88,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\1_main_excercise\Module_3\ss0_case_study\jstl_servlet\webbapp\assert\boostrap" />
+      <recent name="D:\CodeGym\1_main_excercise\Module_3\ss0_case_study\jstl_servlet\webbapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\1_main_excercise\Module_3\ss0_case_study\dataBase" />
       <recent name="D:\CodeGym\1_main_excercise\Module_3" />
       <recent name="D:\CodeGym\1_main_excercise\Module_3\ss8_Boostrap" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.568">
+  <component name="RunManager">
     <configuration name="D:/CodeGym/1_main_excercise/Module_3/ss11_mvc/bai_tap/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -230,17 +255,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Gradle.D:/CodeGym/1_main_excercise/Module_3/ss11_mvc/bai_tap/build.gradle" />
-      <item itemvalue="Kotlin.Unnamed" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.568" />
-      <item itemvalue="Tomcat Server.Unnamed" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.D:/CodeGym/1_main_excercise/Module_3/ss11_mvc/bai_tap/build.gradle" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -267,6 +281,8 @@
       <workItem from="1640615011710" duration="591000" />
       <workItem from="1640617049001" duration="5500000" />
       <workItem from="1640653893026" duration="1596000" />
+      <workItem from="1640759752024" duration="5000" />
+      <workItem from="1640765354711" duration="4435000" />
     </task>
     <servers />
   </component>

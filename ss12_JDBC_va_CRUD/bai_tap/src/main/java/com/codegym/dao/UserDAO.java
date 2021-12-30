@@ -88,7 +88,6 @@ public class UserDAO implements IUserDAO{
         try (Connection connection = getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement(SELECT_USER_BY_COUNTRY);) {
             preparedStatement.setString ( 1, "%"+countryFind+"%");
-            System.out.println(preparedStatement);
             ResultSet rs = preparedStatement.executeQuery();
 
             while (rs.next()) {

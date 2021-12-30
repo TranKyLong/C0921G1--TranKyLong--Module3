@@ -3,5 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss11_mvc/thuc_hanh/jwbd-customer-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss12_JDBC_va_CRUD/thuc_hanh/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss13_transaction/thuc_hanh/goi_mysql_stored_procedures/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss13_transaction/thuc_hanh/has_transaction/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss13_transaction/thuc_hanh/mysql_jdbc_transaction/jwbd-user-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss13_transaction/thuc_hanh/none_transaction/jwbd-user-manager" vcs="Git" />
   </component>
 </project>

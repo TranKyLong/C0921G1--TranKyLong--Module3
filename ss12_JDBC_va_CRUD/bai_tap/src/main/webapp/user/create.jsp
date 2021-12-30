@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>User Management Application</title>
-    <link rel="stylesheet" href="newCss.css">
+    <link rel="stylesheet" href="../WEB-INF/assert/css/newCss.css" type="text/css">
 </head>
 <body>
 <center>
