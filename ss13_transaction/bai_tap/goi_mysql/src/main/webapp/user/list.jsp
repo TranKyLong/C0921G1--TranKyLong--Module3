@@ -14,10 +14,10 @@
     </h2>
 </center>
 <div align="center">
-    <form action="/users" method="get" >
+    <form action="/users" method="get">
         <div>
             <input type="text" name="keyword">
-            <input type="submit"   name="action" value="search" >
+            <input type="submit" name="action" value="search">
         </div>
     </form>
     <table>

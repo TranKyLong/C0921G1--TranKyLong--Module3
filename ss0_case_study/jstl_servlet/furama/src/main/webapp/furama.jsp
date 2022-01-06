@@ -43,8 +43,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-white" aria-current="page" href="#">Employee</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link text-white" aria-current="page" href="#">Customer</a>
+                            <a class="nav-link text-white" aria-current="page" href="/customer">Customer</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" aria-current="page" href="#">Services</a>
@@ -67,7 +68,7 @@
             <div class="bg-dark text-white side ">
                 <div class="inner ">
                     <ul class="list-group-flush ">
-                        <li><a href="/furama?action=create">CREATE NEW CUSTOMER</a></li>
+                        <li><a href="/furama?action=create ">CREATE NEW CUSTOMER</a></li>
                         <li><a href="#">item2</a></li>
                         <li><a href="#">item3</a></li>
                     </ul>
@@ -75,7 +76,9 @@
 
             </div>
         </div>
+
     </div>
+
 
     <footer class="bg-light text-center text-lg-start">
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
